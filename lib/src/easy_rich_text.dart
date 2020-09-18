@@ -405,7 +405,7 @@ class EasyRichText extends StatelessWidget {
         strutStyle: strutStyle,
         textAlign: textAlign,
         textDirection: textDirection,
-        textScaleFactor: textScaleFactor,
+       // textScaleFactor: textScaleFactor,
         textWidthBasis: textWidthBasis,
       );
     } else {
